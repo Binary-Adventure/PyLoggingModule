@@ -1,2 +1,2 @@
-# PyLogging
+# PyLoggingModule
 simple functions for logging
